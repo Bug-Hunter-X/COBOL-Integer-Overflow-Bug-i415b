@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL programming error: integer overflow.  The program adds two integer variables, but fails to handle the possibility that the result exceeds the data type's maximum value.  This can lead to incorrect calculations and potentially program crashes.
